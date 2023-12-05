@@ -9,10 +9,10 @@
 <div align="center"> 
   <a href="https://web-site-navy-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" 
    target="_blank"></a>
-  <a href="https://instagram.com/gustta_henrii?igshid=MzRlODBiNWFlZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+  <a href="[https://instagram.com/gustta_henrii?igshid=MzRlODBiNWFlZA==](https://instagram.com/desouza.ml?utm_source=qr&igshid=OGU0MmVlOWVjOQ==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
    target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/gustavo-henri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-  <a href="https://wa.me/5561996234681?text=Ol%C3%A1,%20vi%20seu%20projeto%20no%20GitHub%20!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
+  <a href="https://www.linkedin.com/in/mateus-leandro-8a94252a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+  <a href="https://wa.me/5561994025484?text=Ol%C3%A1,%20vi%20seu%20projeto%20no%20GitHub%20!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
    target="_blank"></a>
 </div>
 
