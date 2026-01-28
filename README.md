@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h1>full stack</h1>
+  <h1>Full Stack</h1>
     <a href="https://skillicons.dev">
     <a href="https://skillicons.dev" target="_blank">
       <img src="https://skillicons.dev/icons?i=vite,mysql,angular,tailwind,sass" />
