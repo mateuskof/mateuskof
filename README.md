@@ -30,9 +30,8 @@ const mateus = {
   ],
 
   estudando: [
-    "Kubernetes",
-    "Microservices",
-    "RabbitMQ",
+    "Arquitetura de Softwere",
+    "Mba Liderança Tecnologica",
     "AWS"
   ],
 
