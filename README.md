@@ -18,7 +18,16 @@
 const mateus = {
   nome: "Mateus Leandro",
   idade: 24,
-  cargo: "Full Stack Developer",
+  profissão: "Full Stack Developer",
+
+  formação: [
+    "Análise e Desenvolvimento de Sistemas"
+  ],
+
+  pósGraduação: [
+    "Arquitetura de Software",
+    "MBA em Liderança Executiva de TI"
+  ],
 
   principaisTecnologias: [
     "React",
@@ -30,8 +39,9 @@ const mateus = {
   ],
 
   estudando: [
-    "Arquitetura de Softwere",
-    "Mba Liderança Tecnologica",
+    "Kubernetes",
+    "Microservices",
+    "RabbitMQ",
     "AWS"
   ],
 
@@ -49,10 +59,6 @@ const mateus = {
 # 🌐 Contato
 
 <div align="center">
-
-<a href="https://web-site-navy-rho.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/PORTFÓLIO-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://instagram.com/desouza.ml" target="_blank">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
