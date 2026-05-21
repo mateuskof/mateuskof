@@ -1,35 +1,156 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+-+Vindo!;+Meu+Nome+é+Mateus+Leandro;Tenho+24+anos;Sou+Graduado+em+Desenvolvimento+De+Sistema;+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gusta-Henriique&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=800000&text_color=FFFFFF&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta-Henriique&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0d1117" />
-</div>
-<div align="center"> 
-  <a href="https://web-site-navy-rho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" 
-   target="_blank"></a>
-  <a href="[https://instagram.com/gustta_henrii?igshid=MzRlODBiNWFlZA==](https://instagram.com/desouza.ml?utm_source=qr&igshid=OGU0MmVlOWVjOQ==)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-   target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/mateus-leandro-8a94252a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-  <a href="https://wa.me/5561994025484?text=Ol%C3%A1,%20vi%20seu%20projeto%20no%20GitHub%20!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
-   target="_blank"></a>
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:dc2626&height=180&section=header&text=Mateus%20Leandro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
-   <a href="https://skillicons.dev">
-   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github,html,css,javascript,react" />
-  </a>
+
+# 👨‍💻 Mateus Leandro
+
+### Full Stack Developer • React • NestJS • TypeScript
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Especialista+em+React+e+NestJS;Apaixonado+por+tecnologia+e+inovação" />
+
 </div>
+
+---
+
+# 🚀 Sobre mim
+
+```ts
+const mateus = {
+  nome: "Mateus Leandro",
+  idade: 24,
+  cargo: "Full Stack Developer",
+
+  principaisTecnologias: [
+    "React",
+    "Next.js",
+    "NestJS",
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL"
+  ],
+
+  estudando: [
+    "Kubernetes",
+    "Microservices",
+    "RabbitMQ",
+    "AWS"
+  ],
+
+  foco: [
+    "Sistemas escaláveis",
+    "APIs performáticas",
+    "UI moderna",
+    "Arquitetura limpa"
+  ]
+}
+```
+
+---
+
+# 🌐 Contato
 
 <div align="center">
-  <h1>Full Stack</h1>
-    <a href="https://skillicons.dev">
-    <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vite,mysql,angular,tailwind,sass" />
-    </a>
+
+<a href="https://web-site-navy-rho.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/PORTFÓLIO-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/desouza.ml" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mateus-leandro-8a94252a1" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5561994025484" target="_blank">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuskof&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuskof&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Front-End
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,vite,redux,sass,figma" />
+
+</div>
+
+---
+
+# 🔧 Back-End
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mysql,mongodb,firebase" />
+
+</div>
+
+---
+
+# ☁️ DevOps & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vercel,postman" />
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=graphql,kubernetes,rabbitmq,redis" />
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mateuskof&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mateuskof/mateuskof/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 💻 Frase
+
+<div align="center">
+
+### “Transformando ideias em soluções reais.”
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:0f172a&height=140&section=footer"/>
